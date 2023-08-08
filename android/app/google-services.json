@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123355427207",
+    "project_id": "e-shoppe-c59f3",
+    "storage_bucket": "e-shoppe-c59f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123355427207:android:c2f2071055116aeabc6322",
+        "android_client_info": {
+          "package_name": "com.e_shopee_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123355427207-hjicgl0336pcrjopivg10g7mt7dnl09h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXmTVSBt1ziEnmnSArF9wO7k2z3V8Uaxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123355427207-hjicgl0336pcrjopivg10g7mt7dnl09h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
